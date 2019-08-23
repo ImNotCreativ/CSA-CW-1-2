@@ -1,0 +1,8 @@
+public class Pp1.2b 
+{
+    public static void main(String args[]) 
+    {
+
+      System.out.println("Knowledge\nis\npower");
+    }
+}
