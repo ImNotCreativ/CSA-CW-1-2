@@ -1,0 +1,12 @@
+public class PpOnePointTwoA
+{
+    public static void main(String args[]) 
+    {
+
+      System.out.println("==================================" 
+      + "\n|                                |"
+      + "\n|       Knowledge is power       |"
+      + "\n|                                |"
+      + "\n==================================");
+    }
+}
